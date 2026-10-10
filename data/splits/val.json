@@ -1,0 +1,1058 @@
+[
+  {
+    "pair_id": "PAIR_0017",
+    "language": "en",
+    "domain": "backend_swe_en",
+    "target_job_title": "Senior Backend Engineer (Python/Distributed Systems)",
+    "match_tier": "tier_1_strong",
+    "candidate_id": "CAND_EN_0017",
+    "raw_cv": "Alex Morgan | email: cand_en_0017@redacted-applicant.org | phone: +XX-XXX-XXX-XXXX | New York, NY\nGitHub: github.com/cand_en_0017 | LinkedIn: linkedin.com/in/cand_en_0017\n\nSummary:\nSenior Backend Engineer with 6.5 years specializing in high-throughput Python microservices, distributed caching, and cloud infrastructure on AWS.\n\nSkills:\nLanguages: Python, Go, SQL, Bash\nFrameworks & Databases: FastAPI, Django, PostgreSQL, Redis, RabbitMQ\nDevOps & Cloud: AWS (ECS, RDS, S3), Docker, Kubernetes, GitHub Actions, Terraform\n\nExperience:\nSenior Software Engineer | FinStream Corp | New York, NY | +XX-XXX-XXX-XXXX - Present\n- Architected transactional API gateway using FastAPI and Redis, reducing p99 latency by 44% across 20M daily calls.\n- Scaled PostgreSQL database with connection pooling and query optimization, handling $4M+ in daily transaction volume.\n- Led migration of 8 core services to Kubernetes clusters on AWS with zero downtime.\n\nBackend Engineer | DataMesh Inc | Boston, MA | +XX-XXX-XXX-XXXX - +XX-XXX-XXX-XXXX\n- Developed distributed data ingestion services using Python and RabbitMQ, processing 1.2 TB of event streams daily.\n- Automated CI/CD deployment pipelines using Docker and GitHub Actions, cutting deployment time from 45 min to 8 min.\n\nEducation:\nM.S. in Computer Science | Georgia Institute of Technology | 2018\nB.S. in Computer Engineering | Rutgers University | 2016",
+    "raw_jd": "Position: Senior Backend Engineer (Python/Distributed Systems)\nLocation: Remote / New York, NY\nExperience Required: 5+ years\n\nRole Overview:\nWe are seeking an experienced Backend Engineer to scale our transactional services. You will design high-throughput APIs, optimize database queries, and lead microservices architecture.\n\nMust-Have Requirements:\n- 5+ years of software development experience with Python (FastAPI or Django)\n- Deep expertise in PostgreSQL, query optimization, and Redis caching\n- Hands-on experience with Docker, Kubernetes, and AWS cloud infrastructure\n- Track record of designing RESTful microservices handling high traffic\n- Fluency in English\n\nNice-to-Have:\n- Experience with Go or Rust\n- Familiarity with Apache Kafka or RabbitMQ\n- Experience mentoring junior developers",
+    "must_have_skills": [
+      "Python",
+      "FastAPI",
+      "PostgreSQL",
+      "Redis",
+      "Docker",
+      "Kubernetes",
+      "AWS"
+    ],
+    "nice_to_have_skills": [
+      "Go",
+      "Kafka",
+      "CI/CD"
+    ],
+    "min_years_experience": 5.0,
+    "candidate_years_experience": 6.5,
+    "candidate_degree": "M.S. in Computer Science, Georgia Tech",
+    "ground_truth_scores": {
+      "skills_match": 95.0,
+      "experience_relevance": 95.0,
+      "seniority_fit": 100.0,
+      "education_fit": 95.0,
+      "impact_and_achievements": 92.0,
+      "ats_readiness": 95.0,
+      "overall_score": 95.5
+    },
+    "human_rubric_scores": {
+      "skills": 5,
+      "experience": 5,
+      "seniority": 5,
+      "education": 5,
+      "impact": 5,
+      "ats": 5
+    }
+  },
+  {
+    "pair_id": "PAIR_0129",
+    "language": "en",
+    "domain": "backend_swe_en",
+    "target_job_title": "Senior Backend Engineer (Python/Distributed Systems)",
+    "match_tier": "tier_1_strong",
+    "candidate_id": "CAND_EN_0129",
+    "raw_cv": "Alex Morgan | email: cand_en_0129@redacted-applicant.org | phone: +XX-XXX-XXX-XXXX | New York, NY\nGitHub: github.com/cand_en_0129 | LinkedIn: linkedin.com/in/cand_en_0129\n\nSummary:\nSenior Backend Engineer with 6.5 years specializing in high-throughput Python microservices, distributed caching, and cloud infrastructure on AWS.\n\nSkills:\nLanguages: Python, Go, SQL, Bash\nFrameworks & Databases: FastAPI, Django, PostgreSQL, Redis, RabbitMQ\nDevOps & Cloud: AWS (ECS, RDS, S3), Docker, Kubernetes, GitHub Actions, Terraform\n\nExperience:\nSenior Software Engineer | FinStream Corp | New York, NY | +XX-XXX-XXX-XXXX - Present\n- Architected transactional API gateway using FastAPI and Redis, reducing p99 latency by 44% across 20M daily calls.\n- Scaled PostgreSQL database with connection pooling and query optimization, handling $4M+ in daily transaction volume.\n- Led migration of 8 core services to Kubernetes clusters on AWS with zero downtime.\n\nBackend Engineer | DataMesh Inc | Boston, MA | +XX-XXX-XXX-XXXX - +XX-XXX-XXX-XXXX\n- Developed distributed data ingestion services using Python and RabbitMQ, processing 1.2 TB of event streams daily.\n- Automated CI/CD deployment pipelines using Docker and GitHub Actions, cutting deployment time from 45 min to 8 min.\n\nEducation:\nM.S. in Computer Science | Georgia Institute of Technology | 2018\nB.S. in Computer Engineering | Rutgers University | 2016",
+    "raw_jd": "Position: Senior Backend Engineer (Python/Distributed Systems)\nLocation: Remote / New York, NY\nExperience Required: 5+ years\n\nRole Overview:\nWe are seeking an experienced Backend Engineer to scale our transactional services. You will design high-throughput APIs, optimize database queries, and lead microservices architecture.\n\nMust-Have Requirements:\n- 5+ years of software development experience with Python (FastAPI or Django)\n- Deep expertise in PostgreSQL, query optimization, and Redis caching\n- Hands-on experience with Docker, Kubernetes, and AWS cloud infrastructure\n- Track record of designing RESTful microservices handling high traffic\n- Fluency in English\n\nNice-to-Have:\n- Experience with Go or Rust\n- Familiarity with Apache Kafka or RabbitMQ\n- Experience mentoring junior developers",
+    "must_have_skills": [
+      "Python",
+      "FastAPI",
+      "PostgreSQL",
+      "Redis",
+      "Docker",
+      "Kubernetes",
+      "AWS"
+    ],
+    "nice_to_have_skills": [
+      "Go",
+      "Kafka",
+      "CI/CD"
+    ],
+    "min_years_experience": 5.0,
+    "candidate_years_experience": 6.5,
+    "candidate_degree": "M.S. in Computer Science, Georgia Tech",
+    "ground_truth_scores": {
+      "skills_match": 95.0,
+      "experience_relevance": 95.0,
+      "seniority_fit": 100.0,
+      "education_fit": 95.0,
+      "impact_and_achievements": 92.0,
+      "ats_readiness": 95.0,
+      "overall_score": 95.5
+    },
+    "human_rubric_scores": {
+      "skills": 5,
+      "experience": 5,
+      "seniority": 5,
+      "education": 5,
+      "impact": 5,
+      "ats": 5
+    }
+  },
+  {
+    "pair_id": "PAIR_0057",
+    "language": "en",
+    "domain": "backend_swe_en",
+    "target_job_title": "Senior Backend Engineer (Python/Distributed Systems)",
+    "match_tier": "tier_1_strong",
+    "candidate_id": "CAND_EN_0057",
+    "raw_cv": "Alex Morgan | email: cand_en_0057@redacted-applicant.org | phone: +XX-XXX-XXX-XXXX | New York, NY\nGitHub: github.com/cand_en_0057 | LinkedIn: linkedin.com/in/cand_en_0057\n\nSummary:\nSenior Backend Engineer with 6.5 years specializing in high-throughput Python microservices, distributed caching, and cloud infrastructure on AWS.\n\nSkills:\nLanguages: Python, Go, SQL, Bash\nFrameworks & Databases: FastAPI, Django, PostgreSQL, Redis, RabbitMQ\nDevOps & Cloud: AWS (ECS, RDS, S3), Docker, Kubernetes, GitHub Actions, Terraform\n\nExperience:\nSenior Software Engineer | FinStream Corp | New York, NY | +XX-XXX-XXX-XXXX - Present\n- Architected transactional API gateway using FastAPI and Redis, reducing p99 latency by 44% across 20M daily calls.\n- Scaled PostgreSQL database with connection pooling and query optimization, handling $4M+ in daily transaction volume.\n- Led migration of 8 core services to Kubernetes clusters on AWS with zero downtime.\n\nBackend Engineer | DataMesh Inc | Boston, MA | +XX-XXX-XXX-XXXX - +XX-XXX-XXX-XXXX\n- Developed distributed data ingestion services using Python and RabbitMQ, processing 1.2 TB of event streams daily.\n- Automated CI/CD deployment pipelines using Docker and GitHub Actions, cutting deployment time from 45 min to 8 min.\n\nEducation:\nM.S. in Computer Science | Georgia Institute of Technology | 2018\nB.S. in Computer Engineering | Rutgers University | 2016",
+    "raw_jd": "Position: Senior Backend Engineer (Python/Distributed Systems)\nLocation: Remote / New York, NY\nExperience Required: 5+ years\n\nRole Overview:\nWe are seeking an experienced Backend Engineer to scale our transactional services. You will design high-throughput APIs, optimize database queries, and lead microservices architecture.\n\nMust-Have Requirements:\n- 5+ years of software development experience with Python (FastAPI or Django)\n- Deep expertise in PostgreSQL, query optimization, and Redis caching\n- Hands-on experience with Docker, Kubernetes, and AWS cloud infrastructure\n- Track record of designing RESTful microservices handling high traffic\n- Fluency in English\n\nNice-to-Have:\n- Experience with Go or Rust\n- Familiarity with Apache Kafka or RabbitMQ\n- Experience mentoring junior developers",
+    "must_have_skills": [
+      "Python",
+      "FastAPI",
+      "PostgreSQL",
+      "Redis",
+      "Docker",
+      "Kubernetes",
+      "AWS"
+    ],
+    "nice_to_have_skills": [
+      "Go",
+      "Kafka",
+      "CI/CD"
+    ],
+    "min_years_experience": 5.0,
+    "candidate_years_experience": 6.5,
+    "candidate_degree": "M.S. in Computer Science, Georgia Tech",
+    "ground_truth_scores": {
+      "skills_match": 95.0,
+      "experience_relevance": 95.0,
+      "seniority_fit": 100.0,
+      "education_fit": 95.0,
+      "impact_and_achievements": 92.0,
+      "ats_readiness": 95.0,
+      "overall_score": 95.5
+    },
+    "human_rubric_scores": {
+      "skills": 5,
+      "experience": 5,
+      "seniority": 5,
+      "education": 5,
+      "impact": 5,
+      "ats": 5
+    }
+  },
+  {
+    "pair_id": "PAIR_0122",
+    "language": "en",
+    "domain": "backend_swe_en",
+    "target_job_title": "Senior Backend Engineer (Python/Distributed Systems)",
+    "match_tier": "tier_2_moderate",
+    "candidate_id": "CAND_EN_0122",
+    "raw_cv": "Jordan Taylor | email: cand_en_0122@redacted-applicant.org | phone: +XX-XXX-XXX-XXXX | Remote\nLinkedIn: linkedin.com/in/cand_en_0122\n\nSummary:\nBackend Python Developer with 4 years of experience building web applications, REST APIs, and working with relational databases.\n\nSkills:\nPython, Django, Flask, PostgreSQL, MySQL, Docker, AWS (basic), Git\n\nExperience:\nBackend Developer | AppNova Studios | +XX-XXX-XXX-XXXX - Present\n- Built RESTful API endpoints for client dashboard using Django and PostgreSQL.\n- Maintained relational database schemas and wrote migrations.\n- Containerized development workflows using Docker.\n\nJunior Python Developer | WebSphere | +XX-XXX-XXX-XXXX - +XX-XXX-XXX-XXXX\n- Implemented user authentication and account management services using Flask.\n- Fixed bug tickets and wrote unit tests for core API features.\n\nEducation:\nB.S. in Computer Science | State University | 2019",
+    "raw_jd": "Position: Senior Backend Engineer (Python/Distributed Systems)\nLocation: Remote / New York, NY\nExperience Required: 5+ years\n\nRole Overview:\nWe are seeking an experienced Backend Engineer to scale our transactional services. You will design high-throughput APIs, optimize database queries, and lead microservices architecture.\n\nMust-Have Requirements:\n- 5+ years of software development experience with Python (FastAPI or Django)\n- Deep expertise in PostgreSQL, query optimization, and Redis caching\n- Hands-on experience with Docker, Kubernetes, and AWS cloud infrastructure\n- Track record of designing RESTful microservices handling high traffic\n- Fluency in English\n\nNice-to-Have:\n- Experience with Go or Rust\n- Familiarity with Apache Kafka or RabbitMQ\n- Experience mentoring junior developers",
+    "must_have_skills": [
+      "Python",
+      "FastAPI",
+      "PostgreSQL",
+      "Redis",
+      "Docker",
+      "Kubernetes",
+      "AWS"
+    ],
+    "nice_to_have_skills": [
+      "Go",
+      "Kafka",
+      "CI/CD"
+    ],
+    "min_years_experience": 5.0,
+    "candidate_years_experience": 4.0,
+    "candidate_degree": "B.S. in Computer Science, State University",
+    "ground_truth_scores": {
+      "skills_match": 68.0,
+      "experience_relevance": 70.0,
+      "seniority_fit": 80.0,
+      "education_fit": 85.0,
+      "impact_and_achievements": 55.0,
+      "ats_readiness": 85.0,
+      "overall_score": 71.0
+    },
+    "human_rubric_scores": {
+      "skills": 4,
+      "experience": 3,
+      "seniority": 4,
+      "education": 4,
+      "impact": 3,
+      "ats": 4
+    }
+  },
+  {
+    "pair_id": "PAIR_0058",
+    "language": "en",
+    "domain": "backend_swe_en",
+    "target_job_title": "Senior Backend Engineer (Python/Distributed Systems)",
+    "match_tier": "tier_2_moderate",
+    "candidate_id": "CAND_EN_0058",
+    "raw_cv": "Jordan Taylor | email: cand_en_0058@redacted-applicant.org | phone: +XX-XXX-XXX-XXXX | Remote\nLinkedIn: linkedin.com/in/cand_en_0058\n\nSummary:\nBackend Python Developer with 4 years of experience building web applications, REST APIs, and working with relational databases.\n\nSkills:\nPython, Django, Flask, PostgreSQL, MySQL, Docker, AWS (basic), Git\n\nExperience:\nBackend Developer | AppNova Studios | +XX-XXX-XXX-XXXX - Present\n- Built RESTful API endpoints for client dashboard using Django and PostgreSQL.\n- Maintained relational database schemas and wrote migrations.\n- Containerized development workflows using Docker.\n\nJunior Python Developer | WebSphere | +XX-XXX-XXX-XXXX - +XX-XXX-XXX-XXXX\n- Implemented user authentication and account management services using Flask.\n- Fixed bug tickets and wrote unit tests for core API features.\n\nEducation:\nB.S. in Computer Science | State University | 2019",
+    "raw_jd": "Position: Senior Backend Engineer (Python/Distributed Systems)\nLocation: Remote / New York, NY\nExperience Required: 5+ years\n\nRole Overview:\nWe are seeking an experienced Backend Engineer to scale our transactional services. You will design high-throughput APIs, optimize database queries, and lead microservices architecture.\n\nMust-Have Requirements:\n- 5+ years of software development experience with Python (FastAPI or Django)\n- Deep expertise in PostgreSQL, query optimization, and Redis caching\n- Hands-on experience with Docker, Kubernetes, and AWS cloud infrastructure\n- Track record of designing RESTful microservices handling high traffic\n- Fluency in English\n\nNice-to-Have:\n- Experience with Go or Rust\n- Familiarity with Apache Kafka or RabbitMQ\n- Experience mentoring junior developers",
+    "must_have_skills": [
+      "Python",
+      "FastAPI",
+      "PostgreSQL",
+      "Redis",
+      "Docker",
+      "Kubernetes",
+      "AWS"
+    ],
+    "nice_to_have_skills": [
+      "Go",
+      "Kafka",
+      "CI/CD"
+    ],
+    "min_years_experience": 5.0,
+    "candidate_years_experience": 4.0,
+    "candidate_degree": "B.S. in Computer Science, State University",
+    "ground_truth_scores": {
+      "skills_match": 68.0,
+      "experience_relevance": 70.0,
+      "seniority_fit": 80.0,
+      "education_fit": 85.0,
+      "impact_and_achievements": 55.0,
+      "ats_readiness": 85.0,
+      "overall_score": 71.0
+    },
+    "human_rubric_scores": {
+      "skills": 4,
+      "experience": 3,
+      "seniority": 4,
+      "education": 4,
+      "impact": 3,
+      "ats": 4
+    }
+  },
+  {
+    "pair_id": "PAIR_0106",
+    "language": "en",
+    "domain": "backend_swe_en",
+    "target_job_title": "Senior Backend Engineer (Python/Distributed Systems)",
+    "match_tier": "tier_2_moderate",
+    "candidate_id": "CAND_EN_0106",
+    "raw_cv": "Jordan Taylor | email: cand_en_0106@redacted-applicant.org | phone: +XX-XXX-XXX-XXXX | Remote\nLinkedIn: linkedin.com/in/cand_en_0106\n\nSummary:\nBackend Python Developer with 4 years of experience building web applications, REST APIs, and working with relational databases.\n\nSkills:\nPython, Django, Flask, PostgreSQL, MySQL, Docker, AWS (basic), Git\n\nExperience:\nBackend Developer | AppNova Studios | +XX-XXX-XXX-XXXX - Present\n- Built RESTful API endpoints for client dashboard using Django and PostgreSQL.\n- Maintained relational database schemas and wrote migrations.\n- Containerized development workflows using Docker.\n\nJunior Python Developer | WebSphere | +XX-XXX-XXX-XXXX - +XX-XXX-XXX-XXXX\n- Implemented user authentication and account management services using Flask.\n- Fixed bug tickets and wrote unit tests for core API features.\n\nEducation:\nB.S. in Computer Science | State University | 2019",
+    "raw_jd": "Position: Senior Backend Engineer (Python/Distributed Systems)\nLocation: Remote / New York, NY\nExperience Required: 5+ years\n\nRole Overview:\nWe are seeking an experienced Backend Engineer to scale our transactional services. You will design high-throughput APIs, optimize database queries, and lead microservices architecture.\n\nMust-Have Requirements:\n- 5+ years of software development experience with Python (FastAPI or Django)\n- Deep expertise in PostgreSQL, query optimization, and Redis caching\n- Hands-on experience with Docker, Kubernetes, and AWS cloud infrastructure\n- Track record of designing RESTful microservices handling high traffic\n- Fluency in English\n\nNice-to-Have:\n- Experience with Go or Rust\n- Familiarity with Apache Kafka or RabbitMQ\n- Experience mentoring junior developers",
+    "must_have_skills": [
+      "Python",
+      "FastAPI",
+      "PostgreSQL",
+      "Redis",
+      "Docker",
+      "Kubernetes",
+      "AWS"
+    ],
+    "nice_to_have_skills": [
+      "Go",
+      "Kafka",
+      "CI/CD"
+    ],
+    "min_years_experience": 5.0,
+    "candidate_years_experience": 4.0,
+    "candidate_degree": "B.S. in Computer Science, State University",
+    "ground_truth_scores": {
+      "skills_match": 68.0,
+      "experience_relevance": 70.0,
+      "seniority_fit": 80.0,
+      "education_fit": 85.0,
+      "impact_and_achievements": 55.0,
+      "ats_readiness": 85.0,
+      "overall_score": 71.0
+    },
+    "human_rubric_scores": {
+      "skills": 4,
+      "experience": 3,
+      "seniority": 4,
+      "education": 4,
+      "impact": 3,
+      "ats": 4
+    }
+  },
+  {
+    "pair_id": "PAIR_0139",
+    "language": "en",
+    "domain": "backend_swe_en",
+    "target_job_title": "Senior Backend Engineer (Python/Distributed Systems)",
+    "match_tier": "tier_3_pivot",
+    "candidate_id": "CAND_EN_0139",
+    "raw_cv": "Casey Bennett | email: cand_en_0139@redacted-applicant.org | phone: +XX-XXX-XXX-XXXX | Chicago, IL\nLinkedIn: linkedin.com/in/cand_en_0139\n\nSummary:\nData Analyst with 3.5 years of experience analyzing business metrics with Python and SQL. Looking to transition into backend software development.\n\nSkills:\nPython, SQL, Pandas, NumPy, Tableau, Excel, Basic Git\n\nExperience:\nData Analyst | MarketPulse | +XX-XXX-XXX-XXXX - Present\n- Wrote complex SQL queries on PostgreSQL data warehouse to generate executive financial reports.\n- Automated data extraction scripts using Python and Pandas, saving 10 hours of manual work weekly.\n- Built interactive Tableau dashboards for marketing campaigns.\n\nBusiness Intelligence Assistant | RetailMetrics | +XX-XXX-XXX-XXXX - +XX-XXX-XXX-XXXX\n- Verified data accuracy in CRM and produced monthly KPI summaries.\n\nEducation:\nB.A. in Economics | University of Illinois | 2019",
+    "raw_jd": "Position: Senior Backend Engineer (Python/Distributed Systems)\nLocation: Remote / New York, NY\nExperience Required: 5+ years\n\nRole Overview:\nWe are seeking an experienced Backend Engineer to scale our transactional services. You will design high-throughput APIs, optimize database queries, and lead microservices architecture.\n\nMust-Have Requirements:\n- 5+ years of software development experience with Python (FastAPI or Django)\n- Deep expertise in PostgreSQL, query optimization, and Redis caching\n- Hands-on experience with Docker, Kubernetes, and AWS cloud infrastructure\n- Track record of designing RESTful microservices handling high traffic\n- Fluency in English\n\nNice-to-Have:\n- Experience with Go or Rust\n- Familiarity with Apache Kafka or RabbitMQ\n- Experience mentoring junior developers",
+    "must_have_skills": [
+      "Python",
+      "FastAPI",
+      "PostgreSQL",
+      "Redis",
+      "Docker",
+      "Kubernetes",
+      "AWS"
+    ],
+    "nice_to_have_skills": [
+      "Go",
+      "Kafka",
+      "CI/CD"
+    ],
+    "min_years_experience": 5.0,
+    "candidate_years_experience": 3.5,
+    "candidate_degree": "B.A. in Economics & Data Analysis",
+    "ground_truth_scores": {
+      "skills_match": 32.0,
+      "experience_relevance": 40.0,
+      "seniority_fit": 70.0,
+      "education_fit": 60.0,
+      "impact_and_achievements": 50.0,
+      "ats_readiness": 80.0,
+      "overall_score": 45.0
+    },
+    "human_rubric_scores": {
+      "skills": 2,
+      "experience": 2,
+      "seniority": 3,
+      "education": 3,
+      "impact": 2,
+      "ats": 4
+    }
+  },
+  {
+    "pair_id": "PAIR_0011",
+    "language": "en",
+    "domain": "backend_swe_en",
+    "target_job_title": "Senior Backend Engineer (Python/Distributed Systems)",
+    "match_tier": "tier_3_pivot",
+    "candidate_id": "CAND_EN_0011",
+    "raw_cv": "Casey Bennett | email: cand_en_0011@redacted-applicant.org | phone: +XX-XXX-XXX-XXXX | Chicago, IL\nLinkedIn: linkedin.com/in/cand_en_0011\n\nSummary:\nData Analyst with 3.5 years of experience analyzing business metrics with Python and SQL. Looking to transition into backend software development.\n\nSkills:\nPython, SQL, Pandas, NumPy, Tableau, Excel, Basic Git\n\nExperience:\nData Analyst | MarketPulse | +XX-XXX-XXX-XXXX - Present\n- Wrote complex SQL queries on PostgreSQL data warehouse to generate executive financial reports.\n- Automated data extraction scripts using Python and Pandas, saving 10 hours of manual work weekly.\n- Built interactive Tableau dashboards for marketing campaigns.\n\nBusiness Intelligence Assistant | RetailMetrics | +XX-XXX-XXX-XXXX - +XX-XXX-XXX-XXXX\n- Verified data accuracy in CRM and produced monthly KPI summaries.\n\nEducation:\nB.A. in Economics | University of Illinois | 2019",
+    "raw_jd": "Position: Senior Backend Engineer (Python/Distributed Systems)\nLocation: Remote / New York, NY\nExperience Required: 5+ years\n\nRole Overview:\nWe are seeking an experienced Backend Engineer to scale our transactional services. You will design high-throughput APIs, optimize database queries, and lead microservices architecture.\n\nMust-Have Requirements:\n- 5+ years of software development experience with Python (FastAPI or Django)\n- Deep expertise in PostgreSQL, query optimization, and Redis caching\n- Hands-on experience with Docker, Kubernetes, and AWS cloud infrastructure\n- Track record of designing RESTful microservices handling high traffic\n- Fluency in English\n\nNice-to-Have:\n- Experience with Go or Rust\n- Familiarity with Apache Kafka or RabbitMQ\n- Experience mentoring junior developers",
+    "must_have_skills": [
+      "Python",
+      "FastAPI",
+      "PostgreSQL",
+      "Redis",
+      "Docker",
+      "Kubernetes",
+      "AWS"
+    ],
+    "nice_to_have_skills": [
+      "Go",
+      "Kafka",
+      "CI/CD"
+    ],
+    "min_years_experience": 5.0,
+    "candidate_years_experience": 3.5,
+    "candidate_degree": "B.A. in Economics & Data Analysis",
+    "ground_truth_scores": {
+      "skills_match": 32.0,
+      "experience_relevance": 40.0,
+      "seniority_fit": 70.0,
+      "education_fit": 60.0,
+      "impact_and_achievements": 50.0,
+      "ats_readiness": 80.0,
+      "overall_score": 45.0
+    },
+    "human_rubric_scores": {
+      "skills": 2,
+      "experience": 2,
+      "seniority": 3,
+      "education": 3,
+      "impact": 2,
+      "ats": 4
+    }
+  },
+  {
+    "pair_id": "PAIR_0067",
+    "language": "en",
+    "domain": "backend_swe_en",
+    "target_job_title": "Senior Backend Engineer (Python/Distributed Systems)",
+    "match_tier": "tier_3_pivot",
+    "candidate_id": "CAND_EN_0067",
+    "raw_cv": "Casey Bennett | email: cand_en_0067@redacted-applicant.org | phone: +XX-XXX-XXX-XXXX | Chicago, IL\nLinkedIn: linkedin.com/in/cand_en_0067\n\nSummary:\nData Analyst with 3.5 years of experience analyzing business metrics with Python and SQL. Looking to transition into backend software development.\n\nSkills:\nPython, SQL, Pandas, NumPy, Tableau, Excel, Basic Git\n\nExperience:\nData Analyst | MarketPulse | +XX-XXX-XXX-XXXX - Present\n- Wrote complex SQL queries on PostgreSQL data warehouse to generate executive financial reports.\n- Automated data extraction scripts using Python and Pandas, saving 10 hours of manual work weekly.\n- Built interactive Tableau dashboards for marketing campaigns.\n\nBusiness Intelligence Assistant | RetailMetrics | +XX-XXX-XXX-XXXX - +XX-XXX-XXX-XXXX\n- Verified data accuracy in CRM and produced monthly KPI summaries.\n\nEducation:\nB.A. in Economics | University of Illinois | 2019",
+    "raw_jd": "Position: Senior Backend Engineer (Python/Distributed Systems)\nLocation: Remote / New York, NY\nExperience Required: 5+ years\n\nRole Overview:\nWe are seeking an experienced Backend Engineer to scale our transactional services. You will design high-throughput APIs, optimize database queries, and lead microservices architecture.\n\nMust-Have Requirements:\n- 5+ years of software development experience with Python (FastAPI or Django)\n- Deep expertise in PostgreSQL, query optimization, and Redis caching\n- Hands-on experience with Docker, Kubernetes, and AWS cloud infrastructure\n- Track record of designing RESTful microservices handling high traffic\n- Fluency in English\n\nNice-to-Have:\n- Experience with Go or Rust\n- Familiarity with Apache Kafka or RabbitMQ\n- Experience mentoring junior developers",
+    "must_have_skills": [
+      "Python",
+      "FastAPI",
+      "PostgreSQL",
+      "Redis",
+      "Docker",
+      "Kubernetes",
+      "AWS"
+    ],
+    "nice_to_have_skills": [
+      "Go",
+      "Kafka",
+      "CI/CD"
+    ],
+    "min_years_experience": 5.0,
+    "candidate_years_experience": 3.5,
+    "candidate_degree": "B.A. in Economics & Data Analysis",
+    "ground_truth_scores": {
+      "skills_match": 32.0,
+      "experience_relevance": 40.0,
+      "seniority_fit": 70.0,
+      "education_fit": 60.0,
+      "impact_and_achievements": 50.0,
+      "ats_readiness": 80.0,
+      "overall_score": 45.0
+    },
+    "human_rubric_scores": {
+      "skills": 2,
+      "experience": 2,
+      "seniority": 3,
+      "education": 3,
+      "impact": 2,
+      "ats": 4
+    }
+  },
+  {
+    "pair_id": "PAIR_0108",
+    "language": "en",
+    "domain": "backend_swe_en",
+    "target_job_title": "Senior Backend Engineer (Python/Distributed Systems)",
+    "match_tier": "tier_4_mismatch",
+    "candidate_id": "CAND_EN_0108",
+    "raw_cv": "Riley Chen | email: cand_en_0108@redacted-applicant.org | phone: +XX-XXX-XXX-XXXX | Los Angeles, CA\nPortfolio: rileychendesign.com\n\nSummary:\nCreative Graphic Designer & Art Director with 5 years creating brand identities, editorial layouts, and social media visuals.\n\nSkills:\nAdobe Creative Suite, Photoshop, Illustrator, InDesign, Figma, Typography, Brand Identity\n\nExperience:\nSenior Graphic Designer | Horizon Creative Studio | +XX-XXX-XXX-XXXX - Present\n- Designed visual branding for over 30 retail and hospitality clients.\n- Supervised digital marketing campaigns across Instagram and print media.\n\nGraphic Designer | PrintCraft Media | +XX-XXX-XXX-XXXX - +XX-XXX-XXX-XXXX\n- Created brand guidelines, packaging designs, and brochure layouts.\n\nEducation:\nB.F.A. in Graphic Design | California College of the Arts | 2018",
+    "raw_jd": "Position: Senior Backend Engineer (Python/Distributed Systems)\nLocation: Remote / New York, NY\nExperience Required: 5+ years\n\nRole Overview:\nWe are seeking an experienced Backend Engineer to scale our transactional services. You will design high-throughput APIs, optimize database queries, and lead microservices architecture.\n\nMust-Have Requirements:\n- 5+ years of software development experience with Python (FastAPI or Django)\n- Deep expertise in PostgreSQL, query optimization, and Redis caching\n- Hands-on experience with Docker, Kubernetes, and AWS cloud infrastructure\n- Track record of designing RESTful microservices handling high traffic\n- Fluency in English\n\nNice-to-Have:\n- Experience with Go or Rust\n- Familiarity with Apache Kafka or RabbitMQ\n- Experience mentoring junior developers",
+    "must_have_skills": [
+      "Python",
+      "FastAPI",
+      "PostgreSQL",
+      "Redis",
+      "Docker",
+      "Kubernetes",
+      "AWS"
+    ],
+    "nice_to_have_skills": [
+      "Go",
+      "Kafka",
+      "CI/CD"
+    ],
+    "min_years_experience": 5.0,
+    "candidate_years_experience": 5.0,
+    "candidate_degree": "B.F.A. in Graphic Design",
+    "ground_truth_scores": {
+      "skills_match": 0.0,
+      "experience_relevance": 12.0,
+      "seniority_fit": 100.0,
+      "education_fit": 40.0,
+      "impact_and_achievements": 40.0,
+      "ats_readiness": 75.0,
+      "overall_score": 22.0
+    },
+    "human_rubric_scores": {
+      "skills": 1,
+      "experience": 1,
+      "seniority": 5,
+      "education": 2,
+      "impact": 2,
+      "ats": 3
+    }
+  },
+  {
+    "pair_id": "PAIR_0156",
+    "language": "en",
+    "domain": "backend_swe_en",
+    "target_job_title": "Senior Backend Engineer (Python/Distributed Systems)",
+    "match_tier": "tier_4_mismatch",
+    "candidate_id": "CAND_EN_0156",
+    "raw_cv": "Riley Chen | email: cand_en_0156@redacted-applicant.org | phone: +XX-XXX-XXX-XXXX | Los Angeles, CA\nPortfolio: rileychendesign.com\n\nSummary:\nCreative Graphic Designer & Art Director with 5 years creating brand identities, editorial layouts, and social media visuals.\n\nSkills:\nAdobe Creative Suite, Photoshop, Illustrator, InDesign, Figma, Typography, Brand Identity\n\nExperience:\nSenior Graphic Designer | Horizon Creative Studio | +XX-XXX-XXX-XXXX - Present\n- Designed visual branding for over 30 retail and hospitality clients.\n- Supervised digital marketing campaigns across Instagram and print media.\n\nGraphic Designer | PrintCraft Media | +XX-XXX-XXX-XXXX - +XX-XXX-XXX-XXXX\n- Created brand guidelines, packaging designs, and brochure layouts.\n\nEducation:\nB.F.A. in Graphic Design | California College of the Arts | 2018",
+    "raw_jd": "Position: Senior Backend Engineer (Python/Distributed Systems)\nLocation: Remote / New York, NY\nExperience Required: 5+ years\n\nRole Overview:\nWe are seeking an experienced Backend Engineer to scale our transactional services. You will design high-throughput APIs, optimize database queries, and lead microservices architecture.\n\nMust-Have Requirements:\n- 5+ years of software development experience with Python (FastAPI or Django)\n- Deep expertise in PostgreSQL, query optimization, and Redis caching\n- Hands-on experience with Docker, Kubernetes, and AWS cloud infrastructure\n- Track record of designing RESTful microservices handling high traffic\n- Fluency in English\n\nNice-to-Have:\n- Experience with Go or Rust\n- Familiarity with Apache Kafka or RabbitMQ\n- Experience mentoring junior developers",
+    "must_have_skills": [
+      "Python",
+      "FastAPI",
+      "PostgreSQL",
+      "Redis",
+      "Docker",
+      "Kubernetes",
+      "AWS"
+    ],
+    "nice_to_have_skills": [
+      "Go",
+      "Kafka",
+      "CI/CD"
+    ],
+    "min_years_experience": 5.0,
+    "candidate_years_experience": 5.0,
+    "candidate_degree": "B.F.A. in Graphic Design",
+    "ground_truth_scores": {
+      "skills_match": 0.0,
+      "experience_relevance": 12.0,
+      "seniority_fit": 100.0,
+      "education_fit": 40.0,
+      "impact_and_achievements": 40.0,
+      "ats_readiness": 75.0,
+      "overall_score": 22.0
+    },
+    "human_rubric_scores": {
+      "skills": 1,
+      "experience": 1,
+      "seniority": 5,
+      "education": 2,
+      "impact": 2,
+      "ats": 3
+    }
+  },
+  {
+    "pair_id": "PAIR_0076",
+    "language": "en",
+    "domain": "backend_swe_en",
+    "target_job_title": "Senior Backend Engineer (Python/Distributed Systems)",
+    "match_tier": "tier_4_mismatch",
+    "candidate_id": "CAND_EN_0076",
+    "raw_cv": "Riley Chen | email: cand_en_0076@redacted-applicant.org | phone: +XX-XXX-XXX-XXXX | Los Angeles, CA\nPortfolio: rileychendesign.com\n\nSummary:\nCreative Graphic Designer & Art Director with 5 years creating brand identities, editorial layouts, and social media visuals.\n\nSkills:\nAdobe Creative Suite, Photoshop, Illustrator, InDesign, Figma, Typography, Brand Identity\n\nExperience:\nSenior Graphic Designer | Horizon Creative Studio | +XX-XXX-XXX-XXXX - Present\n- Designed visual branding for over 30 retail and hospitality clients.\n- Supervised digital marketing campaigns across Instagram and print media.\n\nGraphic Designer | PrintCraft Media | +XX-XXX-XXX-XXXX - +XX-XXX-XXX-XXXX\n- Created brand guidelines, packaging designs, and brochure layouts.\n\nEducation:\nB.F.A. in Graphic Design | California College of the Arts | 2018",
+    "raw_jd": "Position: Senior Backend Engineer (Python/Distributed Systems)\nLocation: Remote / New York, NY\nExperience Required: 5+ years\n\nRole Overview:\nWe are seeking an experienced Backend Engineer to scale our transactional services. You will design high-throughput APIs, optimize database queries, and lead microservices architecture.\n\nMust-Have Requirements:\n- 5+ years of software development experience with Python (FastAPI or Django)\n- Deep expertise in PostgreSQL, query optimization, and Redis caching\n- Hands-on experience with Docker, Kubernetes, and AWS cloud infrastructure\n- Track record of designing RESTful microservices handling high traffic\n- Fluency in English\n\nNice-to-Have:\n- Experience with Go or Rust\n- Familiarity with Apache Kafka or RabbitMQ\n- Experience mentoring junior developers",
+    "must_have_skills": [
+      "Python",
+      "FastAPI",
+      "PostgreSQL",
+      "Redis",
+      "Docker",
+      "Kubernetes",
+      "AWS"
+    ],
+    "nice_to_have_skills": [
+      "Go",
+      "Kafka",
+      "CI/CD"
+    ],
+    "min_years_experience": 5.0,
+    "candidate_years_experience": 5.0,
+    "candidate_degree": "B.F.A. in Graphic Design",
+    "ground_truth_scores": {
+      "skills_match": 0.0,
+      "experience_relevance": 12.0,
+      "seniority_fit": 100.0,
+      "education_fit": 40.0,
+      "impact_and_achievements": 40.0,
+      "ats_readiness": 75.0,
+      "overall_score": 22.0
+    },
+    "human_rubric_scores": {
+      "skills": 1,
+      "experience": 1,
+      "seniority": 5,
+      "education": 2,
+      "impact": 2,
+      "ats": 3
+    }
+  },
+  {
+    "pair_id": "PAIR_0133",
+    "language": "fr",
+    "domain": "mlops_engineer_fr",
+    "target_job_title": "Ingénieur MLOps & Déploiement IA",
+    "match_tier": "tier_1_strong",
+    "candidate_id": "CAND_FR_0133",
+    "raw_cv": "Maxime Girard | Email: cand_fr_0133@redacted-applicant.org | Tél: +33 +XX-XXX-XXX-XXXX 00 | Paris, France\nGitHub: github.com/cand_fr_0133 | LinkedIn: linkedin.com/in/cand_fr_0133\n\nProfil:\nIngénieur MLOps avec 4 ans d'expérience dans l'industrialisation, le déploiement sur Kubernetes et l'optimisation de modèles de Machine Learning sur GCP.\n\nCompétences:\nLangages: Python, Bash, SQL\nML & Data: PyTorch, Scikit-Learn, MLflow, Apache Airflow, Hugging Face\nDevOps & Cloud: GCP (Vertex AI), Docker, Kubernetes, Helm, GitLab CI, DVC\n\nExpériences Professionnelles:\nIngénieur MLOps | AI Solutions France | Paris | +XX-XXX-XXX-XXXX - Présent\n- Déployé 14 modèles de NLP sur Kubernetes (GKE), réduisant la latence d'inférence de 45% grâce à ONNX Runtime.\n- Automatisé les pipelines de réentraînement continus avec Apache Airflow et MLflow pour 350k requêtes journalières.\n- Implémenté une architecture de monitoring de drift de données diminuant les incidents de 60%.\n\nData Engineer / MLOps | RetailData | Lyon | +XX-XXX-XXX-XXXX - +XX-XXX-XXX-XXXX\n- Conçu des pipelines ETL et conteneurisé les modèles de recommandation avec Docker et GCP.\n- Mis en place les tests unitaires et d'intégration dans les pipelines GitLab CI.\n\nFormation:\nDiplôme d'Ingénieur en Informatique (Bac+5) | Télécom Paris | 2014 - 2019",
+    "raw_jd": "Poste: Ingénieur MLOps & Déploiement IA\nLieu: Paris / Hybride\nExpérience requise: 3+ ans d'expérience\n\nMissions:\nAu sein du pôle Data & IA, vous assurerez l'industrialisation des modèles de Machine Learning et NLP, de l'orchestration au monitoring en production.\n\nProfil recherché (Must-Have):\n- 3+ ans d'expérience en MLOps ou Data Engineering\n- Excellente maîtrise de Python et des frameworks ML (PyTorch, Scikit-Learn)\n- Expertise en conteneurisation et orchestration: Docker, Kubernetes, Airflow\n- Expérience concrète sur une plateforme cloud (GCP ou AWS)\n- Mise en place de pipelines CI/CD pour le ML (MLflow, Git)\n- Maîtrise du français et de l'anglais technique\n\nAtouts (Nice-to-Have):\n- Connaissance de Hugging Face et des LLMs\n- Optimisation d'inférence (ONNX, TensorRT)\n- Expérience avec les bases de données vectorielles",
+    "must_have_skills": [
+      "Python",
+      "PyTorch",
+      "Docker",
+      "Kubernetes",
+      "Apache Airflow",
+      "MLflow",
+      "GCP"
+    ],
+    "nice_to_have_skills": [
+      "Hugging Face",
+      "ONNX",
+      "CI/CD"
+    ],
+    "min_years_experience": 3.0,
+    "candidate_years_experience": 4.0,
+    "candidate_degree": "Diplôme d'Ingénieur en Informatique (Bac+5), Télécom Paris",
+    "ground_truth_scores": {
+      "skills_match": 98.0,
+      "experience_relevance": 96.0,
+      "seniority_fit": 100.0,
+      "education_fit": 100.0,
+      "impact_and_achievements": 90.0,
+      "ats_readiness": 95.0,
+      "overall_score": 96.5
+    },
+    "human_rubric_scores": {
+      "skills": 5,
+      "experience": 5,
+      "seniority": 5,
+      "education": 5,
+      "impact": 5,
+      "ats": 5
+    }
+  },
+  {
+    "pair_id": "PAIR_0149",
+    "language": "fr",
+    "domain": "mlops_engineer_fr",
+    "target_job_title": "Ingénieur MLOps & Déploiement IA",
+    "match_tier": "tier_1_strong",
+    "candidate_id": "CAND_FR_0149",
+    "raw_cv": "Maxime Girard | Email: cand_fr_0149@redacted-applicant.org | Tél: +33 +XX-XXX-XXX-XXXX 00 | Paris, France\nGitHub: github.com/cand_fr_0149 | LinkedIn: linkedin.com/in/cand_fr_0149\n\nProfil:\nIngénieur MLOps avec 4 ans d'expérience dans l'industrialisation, le déploiement sur Kubernetes et l'optimisation de modèles de Machine Learning sur GCP.\n\nCompétences:\nLangages: Python, Bash, SQL\nML & Data: PyTorch, Scikit-Learn, MLflow, Apache Airflow, Hugging Face\nDevOps & Cloud: GCP (Vertex AI), Docker, Kubernetes, Helm, GitLab CI, DVC\n\nExpériences Professionnelles:\nIngénieur MLOps | AI Solutions France | Paris | +XX-XXX-XXX-XXXX - Présent\n- Déployé 14 modèles de NLP sur Kubernetes (GKE), réduisant la latence d'inférence de 45% grâce à ONNX Runtime.\n- Automatisé les pipelines de réentraînement continus avec Apache Airflow et MLflow pour 350k requêtes journalières.\n- Implémenté une architecture de monitoring de drift de données diminuant les incidents de 60%.\n\nData Engineer / MLOps | RetailData | Lyon | +XX-XXX-XXX-XXXX - +XX-XXX-XXX-XXXX\n- Conçu des pipelines ETL et conteneurisé les modèles de recommandation avec Docker et GCP.\n- Mis en place les tests unitaires et d'intégration dans les pipelines GitLab CI.\n\nFormation:\nDiplôme d'Ingénieur en Informatique (Bac+5) | Télécom Paris | 2014 - 2019",
+    "raw_jd": "Poste: Ingénieur MLOps & Déploiement IA\nLieu: Paris / Hybride\nExpérience requise: 3+ ans d'expérience\n\nMissions:\nAu sein du pôle Data & IA, vous assurerez l'industrialisation des modèles de Machine Learning et NLP, de l'orchestration au monitoring en production.\n\nProfil recherché (Must-Have):\n- 3+ ans d'expérience en MLOps ou Data Engineering\n- Excellente maîtrise de Python et des frameworks ML (PyTorch, Scikit-Learn)\n- Expertise en conteneurisation et orchestration: Docker, Kubernetes, Airflow\n- Expérience concrète sur une plateforme cloud (GCP ou AWS)\n- Mise en place de pipelines CI/CD pour le ML (MLflow, Git)\n- Maîtrise du français et de l'anglais technique\n\nAtouts (Nice-to-Have):\n- Connaissance de Hugging Face et des LLMs\n- Optimisation d'inférence (ONNX, TensorRT)\n- Expérience avec les bases de données vectorielles",
+    "must_have_skills": [
+      "Python",
+      "PyTorch",
+      "Docker",
+      "Kubernetes",
+      "Apache Airflow",
+      "MLflow",
+      "GCP"
+    ],
+    "nice_to_have_skills": [
+      "Hugging Face",
+      "ONNX",
+      "CI/CD"
+    ],
+    "min_years_experience": 3.0,
+    "candidate_years_experience": 4.0,
+    "candidate_degree": "Diplôme d'Ingénieur en Informatique (Bac+5), Télécom Paris",
+    "ground_truth_scores": {
+      "skills_match": 98.0,
+      "experience_relevance": 96.0,
+      "seniority_fit": 100.0,
+      "education_fit": 100.0,
+      "impact_and_achievements": 90.0,
+      "ats_readiness": 95.0,
+      "overall_score": 96.5
+    },
+    "human_rubric_scores": {
+      "skills": 5,
+      "experience": 5,
+      "seniority": 5,
+      "education": 5,
+      "impact": 5,
+      "ats": 5
+    }
+  },
+  {
+    "pair_id": "PAIR_0061",
+    "language": "fr",
+    "domain": "mlops_engineer_fr",
+    "target_job_title": "Ingénieur MLOps & Déploiement IA",
+    "match_tier": "tier_1_strong",
+    "candidate_id": "CAND_FR_0061",
+    "raw_cv": "Maxime Girard | Email: cand_fr_0061@redacted-applicant.org | Tél: +33 +XX-XXX-XXX-XXXX 00 | Paris, France\nGitHub: github.com/cand_fr_0061 | LinkedIn: linkedin.com/in/cand_fr_0061\n\nProfil:\nIngénieur MLOps avec 4 ans d'expérience dans l'industrialisation, le déploiement sur Kubernetes et l'optimisation de modèles de Machine Learning sur GCP.\n\nCompétences:\nLangages: Python, Bash, SQL\nML & Data: PyTorch, Scikit-Learn, MLflow, Apache Airflow, Hugging Face\nDevOps & Cloud: GCP (Vertex AI), Docker, Kubernetes, Helm, GitLab CI, DVC\n\nExpériences Professionnelles:\nIngénieur MLOps | AI Solutions France | Paris | +XX-XXX-XXX-XXXX - Présent\n- Déployé 14 modèles de NLP sur Kubernetes (GKE), réduisant la latence d'inférence de 45% grâce à ONNX Runtime.\n- Automatisé les pipelines de réentraînement continus avec Apache Airflow et MLflow pour 350k requêtes journalières.\n- Implémenté une architecture de monitoring de drift de données diminuant les incidents de 60%.\n\nData Engineer / MLOps | RetailData | Lyon | +XX-XXX-XXX-XXXX - +XX-XXX-XXX-XXXX\n- Conçu des pipelines ETL et conteneurisé les modèles de recommandation avec Docker et GCP.\n- Mis en place les tests unitaires et d'intégration dans les pipelines GitLab CI.\n\nFormation:\nDiplôme d'Ingénieur en Informatique (Bac+5) | Télécom Paris | 2014 - 2019",
+    "raw_jd": "Poste: Ingénieur MLOps & Déploiement IA\nLieu: Paris / Hybride\nExpérience requise: 3+ ans d'expérience\n\nMissions:\nAu sein du pôle Data & IA, vous assurerez l'industrialisation des modèles de Machine Learning et NLP, de l'orchestration au monitoring en production.\n\nProfil recherché (Must-Have):\n- 3+ ans d'expérience en MLOps ou Data Engineering\n- Excellente maîtrise de Python et des frameworks ML (PyTorch, Scikit-Learn)\n- Expertise en conteneurisation et orchestration: Docker, Kubernetes, Airflow\n- Expérience concrète sur une plateforme cloud (GCP ou AWS)\n- Mise en place de pipelines CI/CD pour le ML (MLflow, Git)\n- Maîtrise du français et de l'anglais technique\n\nAtouts (Nice-to-Have):\n- Connaissance de Hugging Face et des LLMs\n- Optimisation d'inférence (ONNX, TensorRT)\n- Expérience avec les bases de données vectorielles",
+    "must_have_skills": [
+      "Python",
+      "PyTorch",
+      "Docker",
+      "Kubernetes",
+      "Apache Airflow",
+      "MLflow",
+      "GCP"
+    ],
+    "nice_to_have_skills": [
+      "Hugging Face",
+      "ONNX",
+      "CI/CD"
+    ],
+    "min_years_experience": 3.0,
+    "candidate_years_experience": 4.0,
+    "candidate_degree": "Diplôme d'Ingénieur en Informatique (Bac+5), Télécom Paris",
+    "ground_truth_scores": {
+      "skills_match": 98.0,
+      "experience_relevance": 96.0,
+      "seniority_fit": 100.0,
+      "education_fit": 100.0,
+      "impact_and_achievements": 90.0,
+      "ats_readiness": 95.0,
+      "overall_score": 96.5
+    },
+    "human_rubric_scores": {
+      "skills": 5,
+      "experience": 5,
+      "seniority": 5,
+      "education": 5,
+      "impact": 5,
+      "ats": 5
+    }
+  },
+  {
+    "pair_id": "PAIR_0134",
+    "language": "fr",
+    "domain": "mlops_engineer_fr",
+    "target_job_title": "Ingénieur MLOps & Déploiement IA",
+    "match_tier": "tier_2_moderate",
+    "candidate_id": "CAND_FR_0134",
+    "raw_cv": "Camille Rousseau | Email: cand_fr_0134@redacted-applicant.org | Tél: +33 +XX-XXX-XXX-XXXX 66 | Lille, France\nLinkedIn: linkedin.com/in/cand_fr_0134\n\nProfil:\nData Scientist junior avec 2,5 ans d'expérience en modélisation Python et début de pratique MLOps (Docker, MLflow).\n\nCompétences:\nPython, Scikit-Learn, PyTorch, Pandas, Docker, MLflow, Git, SQL\n\nExpériences:\nData Scientist | LogiTech | Lille | +XX-XXX-XXX-XXXX - Présent\n- Développé des modèles prédictifs de séries temporelles avec Python et Scikit-Learn.\n- Expérimenté le tracking de métriques avec MLflow et conteneurisé des scripts sous Docker.\n\nStage Data Science | FinGroup | +XX-XXX-XXX-XXXX - +XX-XXX-XXX-XXXX\n- Nettoyage de données et exploration statistique sous Pandas.\n\nFormation:\nMaster Informatique et Données | Université de Lille | 2021",
+    "raw_jd": "Poste: Ingénieur MLOps & Déploiement IA\nLieu: Paris / Hybride\nExpérience requise: 3+ ans d'expérience\n\nMissions:\nAu sein du pôle Data & IA, vous assurerez l'industrialisation des modèles de Machine Learning et NLP, de l'orchestration au monitoring en production.\n\nProfil recherché (Must-Have):\n- 3+ ans d'expérience en MLOps ou Data Engineering\n- Excellente maîtrise de Python et des frameworks ML (PyTorch, Scikit-Learn)\n- Expertise en conteneurisation et orchestration: Docker, Kubernetes, Airflow\n- Expérience concrète sur une plateforme cloud (GCP ou AWS)\n- Mise en place de pipelines CI/CD pour le ML (MLflow, Git)\n- Maîtrise du français et de l'anglais technique\n\nAtouts (Nice-to-Have):\n- Connaissance de Hugging Face et des LLMs\n- Optimisation d'inférence (ONNX, TensorRT)\n- Expérience avec les bases de données vectorielles",
+    "must_have_skills": [
+      "Python",
+      "PyTorch",
+      "Docker",
+      "Kubernetes",
+      "Apache Airflow",
+      "MLflow",
+      "GCP"
+    ],
+    "nice_to_have_skills": [
+      "Hugging Face",
+      "ONNX",
+      "CI/CD"
+    ],
+    "min_years_experience": 3.0,
+    "candidate_years_experience": 2.5,
+    "candidate_degree": "Master Informatique (Bac+5), Université de Lille",
+    "ground_truth_scores": {
+      "skills_match": 65.0,
+      "experience_relevance": 65.0,
+      "seniority_fit": 83.0,
+      "education_fit": 90.0,
+      "impact_and_achievements": 50.0,
+      "ats_readiness": 85.0,
+      "overall_score": 68.5
+    },
+    "human_rubric_scores": {
+      "skills": 3,
+      "experience": 3,
+      "seniority": 4,
+      "education": 5,
+      "impact": 2,
+      "ats": 4
+    }
+  },
+  {
+    "pair_id": "PAIR_0126",
+    "language": "fr",
+    "domain": "mlops_engineer_fr",
+    "target_job_title": "Ingénieur MLOps & Déploiement IA",
+    "match_tier": "tier_2_moderate",
+    "candidate_id": "CAND_FR_0126",
+    "raw_cv": "Camille Rousseau | Email: cand_fr_0126@redacted-applicant.org | Tél: +33 +XX-XXX-XXX-XXXX 66 | Lille, France\nLinkedIn: linkedin.com/in/cand_fr_0126\n\nProfil:\nData Scientist junior avec 2,5 ans d'expérience en modélisation Python et début de pratique MLOps (Docker, MLflow).\n\nCompétences:\nPython, Scikit-Learn, PyTorch, Pandas, Docker, MLflow, Git, SQL\n\nExpériences:\nData Scientist | LogiTech | Lille | +XX-XXX-XXX-XXXX - Présent\n- Développé des modèles prédictifs de séries temporelles avec Python et Scikit-Learn.\n- Expérimenté le tracking de métriques avec MLflow et conteneurisé des scripts sous Docker.\n\nStage Data Science | FinGroup | +XX-XXX-XXX-XXXX - +XX-XXX-XXX-XXXX\n- Nettoyage de données et exploration statistique sous Pandas.\n\nFormation:\nMaster Informatique et Données | Université de Lille | 2021",
+    "raw_jd": "Poste: Ingénieur MLOps & Déploiement IA\nLieu: Paris / Hybride\nExpérience requise: 3+ ans d'expérience\n\nMissions:\nAu sein du pôle Data & IA, vous assurerez l'industrialisation des modèles de Machine Learning et NLP, de l'orchestration au monitoring en production.\n\nProfil recherché (Must-Have):\n- 3+ ans d'expérience en MLOps ou Data Engineering\n- Excellente maîtrise de Python et des frameworks ML (PyTorch, Scikit-Learn)\n- Expertise en conteneurisation et orchestration: Docker, Kubernetes, Airflow\n- Expérience concrète sur une plateforme cloud (GCP ou AWS)\n- Mise en place de pipelines CI/CD pour le ML (MLflow, Git)\n- Maîtrise du français et de l'anglais technique\n\nAtouts (Nice-to-Have):\n- Connaissance de Hugging Face et des LLMs\n- Optimisation d'inférence (ONNX, TensorRT)\n- Expérience avec les bases de données vectorielles",
+    "must_have_skills": [
+      "Python",
+      "PyTorch",
+      "Docker",
+      "Kubernetes",
+      "Apache Airflow",
+      "MLflow",
+      "GCP"
+    ],
+    "nice_to_have_skills": [
+      "Hugging Face",
+      "ONNX",
+      "CI/CD"
+    ],
+    "min_years_experience": 3.0,
+    "candidate_years_experience": 2.5,
+    "candidate_degree": "Master Informatique (Bac+5), Université de Lille",
+    "ground_truth_scores": {
+      "skills_match": 65.0,
+      "experience_relevance": 65.0,
+      "seniority_fit": 83.0,
+      "education_fit": 90.0,
+      "impact_and_achievements": 50.0,
+      "ats_readiness": 85.0,
+      "overall_score": 68.5
+    },
+    "human_rubric_scores": {
+      "skills": 3,
+      "experience": 3,
+      "seniority": 4,
+      "education": 5,
+      "impact": 2,
+      "ats": 4
+    }
+  },
+  {
+    "pair_id": "PAIR_0158",
+    "language": "fr",
+    "domain": "mlops_engineer_fr",
+    "target_job_title": "Ingénieur MLOps & Déploiement IA",
+    "match_tier": "tier_2_moderate",
+    "candidate_id": "CAND_FR_0158",
+    "raw_cv": "Camille Rousseau | Email: cand_fr_0158@redacted-applicant.org | Tél: +33 +XX-XXX-XXX-XXXX 66 | Lille, France\nLinkedIn: linkedin.com/in/cand_fr_0158\n\nProfil:\nData Scientist junior avec 2,5 ans d'expérience en modélisation Python et début de pratique MLOps (Docker, MLflow).\n\nCompétences:\nPython, Scikit-Learn, PyTorch, Pandas, Docker, MLflow, Git, SQL\n\nExpériences:\nData Scientist | LogiTech | Lille | +XX-XXX-XXX-XXXX - Présent\n- Développé des modèles prédictifs de séries temporelles avec Python et Scikit-Learn.\n- Expérimenté le tracking de métriques avec MLflow et conteneurisé des scripts sous Docker.\n\nStage Data Science | FinGroup | +XX-XXX-XXX-XXXX - +XX-XXX-XXX-XXXX\n- Nettoyage de données et exploration statistique sous Pandas.\n\nFormation:\nMaster Informatique et Données | Université de Lille | 2021",
+    "raw_jd": "Poste: Ingénieur MLOps & Déploiement IA\nLieu: Paris / Hybride\nExpérience requise: 3+ ans d'expérience\n\nMissions:\nAu sein du pôle Data & IA, vous assurerez l'industrialisation des modèles de Machine Learning et NLP, de l'orchestration au monitoring en production.\n\nProfil recherché (Must-Have):\n- 3+ ans d'expérience en MLOps ou Data Engineering\n- Excellente maîtrise de Python et des frameworks ML (PyTorch, Scikit-Learn)\n- Expertise en conteneurisation et orchestration: Docker, Kubernetes, Airflow\n- Expérience concrète sur une plateforme cloud (GCP ou AWS)\n- Mise en place de pipelines CI/CD pour le ML (MLflow, Git)\n- Maîtrise du français et de l'anglais technique\n\nAtouts (Nice-to-Have):\n- Connaissance de Hugging Face et des LLMs\n- Optimisation d'inférence (ONNX, TensorRT)\n- Expérience avec les bases de données vectorielles",
+    "must_have_skills": [
+      "Python",
+      "PyTorch",
+      "Docker",
+      "Kubernetes",
+      "Apache Airflow",
+      "MLflow",
+      "GCP"
+    ],
+    "nice_to_have_skills": [
+      "Hugging Face",
+      "ONNX",
+      "CI/CD"
+    ],
+    "min_years_experience": 3.0,
+    "candidate_years_experience": 2.5,
+    "candidate_degree": "Master Informatique (Bac+5), Université de Lille",
+    "ground_truth_scores": {
+      "skills_match": 65.0,
+      "experience_relevance": 65.0,
+      "seniority_fit": 83.0,
+      "education_fit": 90.0,
+      "impact_and_achievements": 50.0,
+      "ats_readiness": 85.0,
+      "overall_score": 68.5
+    },
+    "human_rubric_scores": {
+      "skills": 3,
+      "experience": 3,
+      "seniority": 4,
+      "education": 5,
+      "impact": 2,
+      "ats": 4
+    }
+  },
+  {
+    "pair_id": "PAIR_0111",
+    "language": "fr",
+    "domain": "mlops_engineer_fr",
+    "target_job_title": "Ingénieur MLOps & Déploiement IA",
+    "match_tier": "tier_3_pivot",
+    "candidate_id": "CAND_FR_0111",
+    "raw_cv": "Lucas Moreau | Email: cand_fr_0111@redacted-applicant.org | Tél: +33 +XX-XXX-XXX-XXXX 44 | Rennes, France\nLinkedIn: linkedin.com/in/cand_fr_0111\n\nProfil:\nAdministrateur Systèmes & Linux avec 3 ans d'expérience sur l'infrastructure sur site et Docker. Souhaite s'orienter vers les technologies MLOps.\n\nCompétences:\nLinux, Bash, Docker, Ansible, Administration Réseaux, Notions de Python, Git\n\nExpériences:\nAdministrateur Systèmes | Ouest Telecom | +XX-XXX-XXX-XXXX - Présent\n- Gestion de serveurs Debian et déploiement de conteneurs Docker pour les outils internes.\n- Automatisation des tâches de maintenance système avec des scripts Bash et Ansible.\n\nTechnicien Support | InfoRennes | +XX-XXX-XXX-XXXX - +XX-XXX-XXX-XXXX\n- Support utilisateurs et installation d'équipements réseaux.\n\nFormation:\nLicence Pro Réseaux et Systèmes | IUT Rennes | 2019",
+    "raw_jd": "Poste: Ingénieur MLOps & Déploiement IA\nLieu: Paris / Hybride\nExpérience requise: 3+ ans d'expérience\n\nMissions:\nAu sein du pôle Data & IA, vous assurerez l'industrialisation des modèles de Machine Learning et NLP, de l'orchestration au monitoring en production.\n\nProfil recherché (Must-Have):\n- 3+ ans d'expérience en MLOps ou Data Engineering\n- Excellente maîtrise de Python et des frameworks ML (PyTorch, Scikit-Learn)\n- Expertise en conteneurisation et orchestration: Docker, Kubernetes, Airflow\n- Expérience concrète sur une plateforme cloud (GCP ou AWS)\n- Mise en place de pipelines CI/CD pour le ML (MLflow, Git)\n- Maîtrise du français et de l'anglais technique\n\nAtouts (Nice-to-Have):\n- Connaissance de Hugging Face et des LLMs\n- Optimisation d'inférence (ONNX, TensorRT)\n- Expérience avec les bases de données vectorielles",
+    "must_have_skills": [
+      "Python",
+      "PyTorch",
+      "Docker",
+      "Kubernetes",
+      "Apache Airflow",
+      "MLflow",
+      "GCP"
+    ],
+    "nice_to_have_skills": [
+      "Hugging Face",
+      "ONNX",
+      "CI/CD"
+    ],
+    "min_years_experience": 3.0,
+    "candidate_years_experience": 3.0,
+    "candidate_degree": "Licence Professionnelle Administration Réseaux",
+    "ground_truth_scores": {
+      "skills_match": 35.0,
+      "experience_relevance": 45.0,
+      "seniority_fit": 100.0,
+      "education_fit": 60.0,
+      "impact_and_achievements": 45.0,
+      "ats_readiness": 80.0,
+      "overall_score": 48.0
+    },
+    "human_rubric_scores": {
+      "skills": 2,
+      "experience": 2,
+      "seniority": 5,
+      "education": 3,
+      "impact": 2,
+      "ats": 4
+    }
+  },
+  {
+    "pair_id": "PAIR_0015",
+    "language": "fr",
+    "domain": "mlops_engineer_fr",
+    "target_job_title": "Ingénieur MLOps & Déploiement IA",
+    "match_tier": "tier_3_pivot",
+    "candidate_id": "CAND_FR_0015",
+    "raw_cv": "Lucas Moreau | Email: cand_fr_0015@redacted-applicant.org | Tél: +33 +XX-XXX-XXX-XXXX 44 | Rennes, France\nLinkedIn: linkedin.com/in/cand_fr_0015\n\nProfil:\nAdministrateur Systèmes & Linux avec 3 ans d'expérience sur l'infrastructure sur site et Docker. Souhaite s'orienter vers les technologies MLOps.\n\nCompétences:\nLinux, Bash, Docker, Ansible, Administration Réseaux, Notions de Python, Git\n\nExpériences:\nAdministrateur Systèmes | Ouest Telecom | +XX-XXX-XXX-XXXX - Présent\n- Gestion de serveurs Debian et déploiement de conteneurs Docker pour les outils internes.\n- Automatisation des tâches de maintenance système avec des scripts Bash et Ansible.\n\nTechnicien Support | InfoRennes | +XX-XXX-XXX-XXXX - +XX-XXX-XXX-XXXX\n- Support utilisateurs et installation d'équipements réseaux.\n\nFormation:\nLicence Pro Réseaux et Systèmes | IUT Rennes | 2019",
+    "raw_jd": "Poste: Ingénieur MLOps & Déploiement IA\nLieu: Paris / Hybride\nExpérience requise: 3+ ans d'expérience\n\nMissions:\nAu sein du pôle Data & IA, vous assurerez l'industrialisation des modèles de Machine Learning et NLP, de l'orchestration au monitoring en production.\n\nProfil recherché (Must-Have):\n- 3+ ans d'expérience en MLOps ou Data Engineering\n- Excellente maîtrise de Python et des frameworks ML (PyTorch, Scikit-Learn)\n- Expertise en conteneurisation et orchestration: Docker, Kubernetes, Airflow\n- Expérience concrète sur une plateforme cloud (GCP ou AWS)\n- Mise en place de pipelines CI/CD pour le ML (MLflow, Git)\n- Maîtrise du français et de l'anglais technique\n\nAtouts (Nice-to-Have):\n- Connaissance de Hugging Face et des LLMs\n- Optimisation d'inférence (ONNX, TensorRT)\n- Expérience avec les bases de données vectorielles",
+    "must_have_skills": [
+      "Python",
+      "PyTorch",
+      "Docker",
+      "Kubernetes",
+      "Apache Airflow",
+      "MLflow",
+      "GCP"
+    ],
+    "nice_to_have_skills": [
+      "Hugging Face",
+      "ONNX",
+      "CI/CD"
+    ],
+    "min_years_experience": 3.0,
+    "candidate_years_experience": 3.0,
+    "candidate_degree": "Licence Professionnelle Administration Réseaux",
+    "ground_truth_scores": {
+      "skills_match": 35.0,
+      "experience_relevance": 45.0,
+      "seniority_fit": 100.0,
+      "education_fit": 60.0,
+      "impact_and_achievements": 45.0,
+      "ats_readiness": 80.0,
+      "overall_score": 48.0
+    },
+    "human_rubric_scores": {
+      "skills": 2,
+      "experience": 2,
+      "seniority": 5,
+      "education": 3,
+      "impact": 2,
+      "ats": 4
+    }
+  },
+  {
+    "pair_id": "PAIR_0023",
+    "language": "fr",
+    "domain": "mlops_engineer_fr",
+    "target_job_title": "Ingénieur MLOps & Déploiement IA",
+    "match_tier": "tier_3_pivot",
+    "candidate_id": "CAND_FR_0023",
+    "raw_cv": "Lucas Moreau | Email: cand_fr_0023@redacted-applicant.org | Tél: +33 +XX-XXX-XXX-XXXX 44 | Rennes, France\nLinkedIn: linkedin.com/in/cand_fr_0023\n\nProfil:\nAdministrateur Systèmes & Linux avec 3 ans d'expérience sur l'infrastructure sur site et Docker. Souhaite s'orienter vers les technologies MLOps.\n\nCompétences:\nLinux, Bash, Docker, Ansible, Administration Réseaux, Notions de Python, Git\n\nExpériences:\nAdministrateur Systèmes | Ouest Telecom | +XX-XXX-XXX-XXXX - Présent\n- Gestion de serveurs Debian et déploiement de conteneurs Docker pour les outils internes.\n- Automatisation des tâches de maintenance système avec des scripts Bash et Ansible.\n\nTechnicien Support | InfoRennes | +XX-XXX-XXX-XXXX - +XX-XXX-XXX-XXXX\n- Support utilisateurs et installation d'équipements réseaux.\n\nFormation:\nLicence Pro Réseaux et Systèmes | IUT Rennes | 2019",
+    "raw_jd": "Poste: Ingénieur MLOps & Déploiement IA\nLieu: Paris / Hybride\nExpérience requise: 3+ ans d'expérience\n\nMissions:\nAu sein du pôle Data & IA, vous assurerez l'industrialisation des modèles de Machine Learning et NLP, de l'orchestration au monitoring en production.\n\nProfil recherché (Must-Have):\n- 3+ ans d'expérience en MLOps ou Data Engineering\n- Excellente maîtrise de Python et des frameworks ML (PyTorch, Scikit-Learn)\n- Expertise en conteneurisation et orchestration: Docker, Kubernetes, Airflow\n- Expérience concrète sur une plateforme cloud (GCP ou AWS)\n- Mise en place de pipelines CI/CD pour le ML (MLflow, Git)\n- Maîtrise du français et de l'anglais technique\n\nAtouts (Nice-to-Have):\n- Connaissance de Hugging Face et des LLMs\n- Optimisation d'inférence (ONNX, TensorRT)\n- Expérience avec les bases de données vectorielles",
+    "must_have_skills": [
+      "Python",
+      "PyTorch",
+      "Docker",
+      "Kubernetes",
+      "Apache Airflow",
+      "MLflow",
+      "GCP"
+    ],
+    "nice_to_have_skills": [
+      "Hugging Face",
+      "ONNX",
+      "CI/CD"
+    ],
+    "min_years_experience": 3.0,
+    "candidate_years_experience": 3.0,
+    "candidate_degree": "Licence Professionnelle Administration Réseaux",
+    "ground_truth_scores": {
+      "skills_match": 35.0,
+      "experience_relevance": 45.0,
+      "seniority_fit": 100.0,
+      "education_fit": 60.0,
+      "impact_and_achievements": 45.0,
+      "ats_readiness": 80.0,
+      "overall_score": 48.0
+    },
+    "human_rubric_scores": {
+      "skills": 2,
+      "experience": 2,
+      "seniority": 5,
+      "education": 3,
+      "impact": 2,
+      "ats": 4
+    }
+  },
+  {
+    "pair_id": "PAIR_0040",
+    "language": "fr",
+    "domain": "mlops_engineer_fr",
+    "target_job_title": "Ingénieur MLOps & Déploiement IA",
+    "match_tier": "tier_4_mismatch",
+    "candidate_id": "CAND_FR_0040",
+    "raw_cv": "Sophie Lefevre | Email: cand_fr_0040@redacted-applicant.org | Tél: +33 +XX-XXX-XXX-XXXX 44 | Paris, France\nLinkedIn: linkedin.com/in/cand_fr_0040\n\nProfil:\nJuriste d'entreprise spécialisée en droit commercial et conformité des contrats, avec 4 ans d'expérience en cabinet et groupe bancaire.\n\nCompétences:\nDroit commercial, Rédaction de contrats, Conformité RGPD, Négociation juridique, Suite Office\n\nExpériences:\nJuriste Contrats | Banque Nationale | +XX-XXX-XXX-XXXX - Présent\n- Rédaction et validation des contrats fournisseurs et accords de partenariat commercial.\n- Audit de conformité des processus internes avec le règlement RGPD.\n\nJuriste Junior | Cabinet Juridique Martin | +XX-XXX-XXX-XXXX - +XX-XXX-XXX-XXXX\n- Veille juridique et préparation des dossiers de contentieux commercial.\n\nFormation:\nMaster 2 en Droit des Affaires | Université Paris 1 Panthéon-Sorbonne | 2019",
+    "raw_jd": "Poste: Ingénieur MLOps & Déploiement IA\nLieu: Paris / Hybride\nExpérience requise: 3+ ans d'expérience\n\nMissions:\nAu sein du pôle Data & IA, vous assurerez l'industrialisation des modèles de Machine Learning et NLP, de l'orchestration au monitoring en production.\n\nProfil recherché (Must-Have):\n- 3+ ans d'expérience en MLOps ou Data Engineering\n- Excellente maîtrise de Python et des frameworks ML (PyTorch, Scikit-Learn)\n- Expertise en conteneurisation et orchestration: Docker, Kubernetes, Airflow\n- Expérience concrète sur une plateforme cloud (GCP ou AWS)\n- Mise en place de pipelines CI/CD pour le ML (MLflow, Git)\n- Maîtrise du français et de l'anglais technique\n\nAtouts (Nice-to-Have):\n- Connaissance de Hugging Face et des LLMs\n- Optimisation d'inférence (ONNX, TensorRT)\n- Expérience avec les bases de données vectorielles",
+    "must_have_skills": [
+      "Python",
+      "PyTorch",
+      "Docker",
+      "Kubernetes",
+      "Apache Airflow",
+      "MLflow",
+      "GCP"
+    ],
+    "nice_to_have_skills": [
+      "Hugging Face",
+      "ONNX",
+      "CI/CD"
+    ],
+    "min_years_experience": 3.0,
+    "candidate_years_experience": 4.0,
+    "candidate_degree": "Master en Droit des Affaires",
+    "ground_truth_scores": {
+      "skills_match": 0.0,
+      "experience_relevance": 10.0,
+      "seniority_fit": 100.0,
+      "education_fit": 30.0,
+      "impact_and_achievements": 40.0,
+      "ats_readiness": 80.0,
+      "overall_score": 21.0
+    },
+    "human_rubric_scores": {
+      "skills": 1,
+      "experience": 1,
+      "seniority": 5,
+      "education": 1,
+      "impact": 2,
+      "ats": 4
+    }
+  },
+  {
+    "pair_id": "PAIR_0160",
+    "language": "fr",
+    "domain": "mlops_engineer_fr",
+    "target_job_title": "Ingénieur MLOps & Déploiement IA",
+    "match_tier": "tier_4_mismatch",
+    "candidate_id": "CAND_FR_0160",
+    "raw_cv": "Sophie Lefevre | Email: cand_fr_0160@redacted-applicant.org | Tél: +33 +XX-XXX-XXX-XXXX 44 | Paris, France\nLinkedIn: linkedin.com/in/cand_fr_0160\n\nProfil:\nJuriste d'entreprise spécialisée en droit commercial et conformité des contrats, avec 4 ans d'expérience en cabinet et groupe bancaire.\n\nCompétences:\nDroit commercial, Rédaction de contrats, Conformité RGPD, Négociation juridique, Suite Office\n\nExpériences:\nJuriste Contrats | Banque Nationale | +XX-XXX-XXX-XXXX - Présent\n- Rédaction et validation des contrats fournisseurs et accords de partenariat commercial.\n- Audit de conformité des processus internes avec le règlement RGPD.\n\nJuriste Junior | Cabinet Juridique Martin | +XX-XXX-XXX-XXXX - +XX-XXX-XXX-XXXX\n- Veille juridique et préparation des dossiers de contentieux commercial.\n\nFormation:\nMaster 2 en Droit des Affaires | Université Paris 1 Panthéon-Sorbonne | 2019",
+    "raw_jd": "Poste: Ingénieur MLOps & Déploiement IA\nLieu: Paris / Hybride\nExpérience requise: 3+ ans d'expérience\n\nMissions:\nAu sein du pôle Data & IA, vous assurerez l'industrialisation des modèles de Machine Learning et NLP, de l'orchestration au monitoring en production.\n\nProfil recherché (Must-Have):\n- 3+ ans d'expérience en MLOps ou Data Engineering\n- Excellente maîtrise de Python et des frameworks ML (PyTorch, Scikit-Learn)\n- Expertise en conteneurisation et orchestration: Docker, Kubernetes, Airflow\n- Expérience concrète sur une plateforme cloud (GCP ou AWS)\n- Mise en place de pipelines CI/CD pour le ML (MLflow, Git)\n- Maîtrise du français et de l'anglais technique\n\nAtouts (Nice-to-Have):\n- Connaissance de Hugging Face et des LLMs\n- Optimisation d'inférence (ONNX, TensorRT)\n- Expérience avec les bases de données vectorielles",
+    "must_have_skills": [
+      "Python",
+      "PyTorch",
+      "Docker",
+      "Kubernetes",
+      "Apache Airflow",
+      "MLflow",
+      "GCP"
+    ],
+    "nice_to_have_skills": [
+      "Hugging Face",
+      "ONNX",
+      "CI/CD"
+    ],
+    "min_years_experience": 3.0,
+    "candidate_years_experience": 4.0,
+    "candidate_degree": "Master en Droit des Affaires",
+    "ground_truth_scores": {
+      "skills_match": 0.0,
+      "experience_relevance": 10.0,
+      "seniority_fit": 100.0,
+      "education_fit": 30.0,
+      "impact_and_achievements": 40.0,
+      "ats_readiness": 80.0,
+      "overall_score": 21.0
+    },
+    "human_rubric_scores": {
+      "skills": 1,
+      "experience": 1,
+      "seniority": 5,
+      "education": 1,
+      "impact": 2,
+      "ats": 4
+    }
+  },
+  {
+    "pair_id": "PAIR_0088",
+    "language": "fr",
+    "domain": "mlops_engineer_fr",
+    "target_job_title": "Ingénieur MLOps & Déploiement IA",
+    "match_tier": "tier_4_mismatch",
+    "candidate_id": "CAND_FR_0088",
+    "raw_cv": "Sophie Lefevre | Email: cand_fr_0088@redacted-applicant.org | Tél: +33 +XX-XXX-XXX-XXXX 44 | Paris, France\nLinkedIn: linkedin.com/in/cand_fr_0088\n\nProfil:\nJuriste d'entreprise spécialisée en droit commercial et conformité des contrats, avec 4 ans d'expérience en cabinet et groupe bancaire.\n\nCompétences:\nDroit commercial, Rédaction de contrats, Conformité RGPD, Négociation juridique, Suite Office\n\nExpériences:\nJuriste Contrats | Banque Nationale | +XX-XXX-XXX-XXXX - Présent\n- Rédaction et validation des contrats fournisseurs et accords de partenariat commercial.\n- Audit de conformité des processus internes avec le règlement RGPD.\n\nJuriste Junior | Cabinet Juridique Martin | +XX-XXX-XXX-XXXX - +XX-XXX-XXX-XXXX\n- Veille juridique et préparation des dossiers de contentieux commercial.\n\nFormation:\nMaster 2 en Droit des Affaires | Université Paris 1 Panthéon-Sorbonne | 2019",
+    "raw_jd": "Poste: Ingénieur MLOps & Déploiement IA\nLieu: Paris / Hybride\nExpérience requise: 3+ ans d'expérience\n\nMissions:\nAu sein du pôle Data & IA, vous assurerez l'industrialisation des modèles de Machine Learning et NLP, de l'orchestration au monitoring en production.\n\nProfil recherché (Must-Have):\n- 3+ ans d'expérience en MLOps ou Data Engineering\n- Excellente maîtrise de Python et des frameworks ML (PyTorch, Scikit-Learn)\n- Expertise en conteneurisation et orchestration: Docker, Kubernetes, Airflow\n- Expérience concrète sur une plateforme cloud (GCP ou AWS)\n- Mise en place de pipelines CI/CD pour le ML (MLflow, Git)\n- Maîtrise du français et de l'anglais technique\n\nAtouts (Nice-to-Have):\n- Connaissance de Hugging Face et des LLMs\n- Optimisation d'inférence (ONNX, TensorRT)\n- Expérience avec les bases de données vectorielles",
+    "must_have_skills": [
+      "Python",
+      "PyTorch",
+      "Docker",
+      "Kubernetes",
+      "Apache Airflow",
+      "MLflow",
+      "GCP"
+    ],
+    "nice_to_have_skills": [
+      "Hugging Face",
+      "ONNX",
+      "CI/CD"
+    ],
+    "min_years_experience": 3.0,
+    "candidate_years_experience": 4.0,
+    "candidate_degree": "Master en Droit des Affaires",
+    "ground_truth_scores": {
+      "skills_match": 0.0,
+      "experience_relevance": 10.0,
+      "seniority_fit": 100.0,
+      "education_fit": 30.0,
+      "impact_and_achievements": 40.0,
+      "ats_readiness": 80.0,
+      "overall_score": 21.0
+    },
+    "human_rubric_scores": {
+      "skills": 1,
+      "experience": 1,
+      "seniority": 5,
+      "education": 1,
+      "impact": 2,
+      "ats": 4
+    }
+  }
+]

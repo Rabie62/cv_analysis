@@ -1,0 +1,18 @@
+Position: Senior Backend Engineer (Python/Distributed Systems)
+Location: Remote / New York, NY
+Experience Required: 5+ years
+
+Role Overview:
+We are seeking an experienced Backend Engineer to scale our transactional services. You will design high-throughput APIs, optimize database queries, and lead microservices architecture.
+
+Must-Have Requirements:
+- 5+ years of software development experience with Python (FastAPI or Django)
+- Deep expertise in PostgreSQL, query optimization, and Redis caching
+- Hands-on experience with Docker, Kubernetes, and AWS cloud infrastructure
+- Track record of designing RESTful microservices handling high traffic
+- Fluency in English
+
+Nice-to-Have:
+- Experience with Go or Rust
+- Familiarity with Apache Kafka or RabbitMQ
+- Experience mentoring junior developers

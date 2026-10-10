@@ -1,0 +1,27 @@
+[project]
+name = "cv-analysis"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "fastapi>=0.142.2",
+    "httpx>=0.28.1",
+    "pydantic>=2.13.5",
+    "pymupdf>=1.28.2",
+    "pytest>=9.1.1",
+    "python-multipart>=0.0.32",
+    "rich>=15.0.0",
+    "sentence-transformers>=6.1.0",
+    "streamlit>=1.65.0",
+    "tabulate>=0.10.0",
+    "torchvision>=0.29.1",
+    "uvicorn>=0.54.0",
+]
+
+[tool.uv]
+package = false
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]

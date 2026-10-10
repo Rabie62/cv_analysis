@@ -1,0 +1,19 @@
+Poste: Ingénieur MLOps & Déploiement IA
+Lieu: Paris / Hybride
+Expérience requise: 3+ ans d'expérience
+
+Missions:
+Au sein du pôle Data & IA, vous assurerez l'industrialisation des modèles de Machine Learning et NLP, de l'orchestration au monitoring en production.
+
+Profil recherché (Must-Have):
+- 3+ ans d'expérience en MLOps ou Data Engineering
+- Excellente maîtrise de Python et des frameworks ML (PyTorch, Scikit-Learn)
+- Expertise en conteneurisation et orchestration: Docker, Kubernetes, Airflow
+- Expérience concrète sur une plateforme cloud (GCP ou AWS)
+- Mise en place de pipelines CI/CD pour le ML (MLflow, Git)
+- Maîtrise du français et de l'anglais technique
+
+Atouts (Nice-to-Have):
+- Connaissance de Hugging Face et des LLMs
+- Optimisation d'inférence (ONNX, TensorRT)
+- Expérience avec les bases de données vectorielles

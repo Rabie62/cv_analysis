@@ -1,0 +1,20 @@
+Camille Rousseau
+Email: camille.rousseau@example.fr | Tél: +33 6 99 88 77 66 | Lieu: Lille, France
+LinkedIn: linkedin.com/in/camillerousseau
+
+Profil:
+Data Scientist junior avec 2,5 ans d'expérience en modélisation Python et début de pratique MLOps (Docker, MLflow).
+
+Compétences:
+- Python, Scikit-Learn, PyTorch, Pandas, Docker, MLflow, Git, SQL
+
+Expériences:
+Data Scientist | LogiTech | Lille | 2021-09 - Présent
+- Développé des modèles prédictifs de séries temporelles avec Python et Scikit-Learn.
+- Expérimenté le tracking de métriques avec MLflow et conteneurisé des scripts sous Docker.
+
+Stage Data Science | FinGroup | 2021-02 - 2021-08
+- Nettoyage de données et exploration statistique sous Pandas.
+
+Formation:
+Master Informatique et Données (Bac+5) | Université de Lille | 2021

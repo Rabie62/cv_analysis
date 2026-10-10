@@ -1,0 +1,28 @@
+Alex Morgan
+Email: alex.morgan@example.com | Phone: +1-555-8392 | Location: New York, NY
+GitHub: github.com/alexmorgan | LinkedIn: linkedin.com/in/alexmorgan
+
+Summary:
+Senior Backend Engineer with 6.5 years specializing in high-throughput Python microservices, distributed caching, and cloud infrastructure on AWS.
+
+Skills:
+- Languages: Python, Go, SQL, Bash
+- Frameworks & Databases: FastAPI, Django, PostgreSQL, Redis, RabbitMQ
+- DevOps & Cloud: AWS (ECS, RDS, S3), Docker, Kubernetes, GitHub Actions, Terraform
+
+Experience:
+Senior Software Engineer | FinStream Corp | New York, NY | 2021-02 - Present
+- Architected transactional API gateway using FastAPI and Redis, reducing p99 latency by 44% across 20M daily calls.
+- Scaled PostgreSQL database with connection pooling and query optimization, handling $4M+ in daily transaction volume.
+- Led migration of 8 core services to Kubernetes clusters on AWS with zero downtime.
+
+Backend Engineer | DataMesh Inc | Boston, MA | 2018-06 - 2021-01
+- Developed distributed data ingestion services using Python and RabbitMQ, processing 1.2 TB of event streams daily.
+- Automated CI/CD deployment pipelines using Docker and GitHub Actions, cutting deployment time from 45 min to 8 min.
+
+Education:
+M.S. in Computer Science | Georgia Institute of Technology | 2018
+B.S. in Computer Engineering | Rutgers University | 2016
+
+Certifications:
+- AWS Certified Solutions Architect - Associate (2022)

@@ -1,0 +1,25 @@
+Jordan Taylor
+Email: jordan.taylor@example.com | Phone: +1-555-4819 | Location: Remote / Chicago, IL
+LinkedIn: linkedin.com/in/jordantaylor
+
+Summary:
+Backend Python Developer with 4 years of experience building web applications, REST APIs, and working with relational databases.
+
+Skills:
+- Languages: Python, SQL
+- Frameworks: Django, Flask
+- Databases: PostgreSQL, MySQL
+- Tools: Docker, Git, AWS (basic)
+
+Experience:
+Backend Developer | AppNova Studios | 2021-03 - Present
+- Built RESTful API endpoints for client dashboard using Django and PostgreSQL.
+- Maintained relational database schemas and wrote migrations.
+- Containerized development workflows using Docker.
+
+Junior Python Developer | WebSphere | 2019-09 - 2021-02
+- Implemented user authentication and account management services using Flask.
+- Fixed bug tickets and wrote unit tests for core API features.
+
+Education:
+B.S. in Computer Science | State University | 2019

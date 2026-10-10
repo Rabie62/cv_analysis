@@ -1,0 +1,20 @@
+Lucas Moreau
+Email: lucas.moreau@example.fr | Tél: +33 6 11 22 33 44 | Lieu: Rennes, France
+LinkedIn: linkedin.com/in/lucasmoreau
+
+Profil:
+Administrateur Systèmes & Linux avec 3 ans d'expérience sur l'infrastructure sur site et Docker. Souhaite s'orienter vers les technologies MLOps.
+
+Compétences:
+- Linux, Bash, Docker, Ansible, Administration Réseaux, Notions de Python, Git
+
+Expériences:
+Administrateur Systèmes | Ouest Telecom | 2020-10 - Présent
+- Gestion de serveurs Debian et déploiement de conteneurs Docker pour les outils internes.
+- Automatisation des tâches de maintenance système avec des scripts Bash et Ansible.
+
+Technicien Support | InfoRennes | 2019-09 - 2020-09
+- Support utilisateurs et installation d'équipements réseaux.
+
+Formation:
+Licence Pro Réseaux et Systèmes | IUT Rennes | 2019

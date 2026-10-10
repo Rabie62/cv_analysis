@@ -1,0 +1,21 @@
+Casey Bennett
+Email: casey.b@example.com | Phone: +1-555-1928 | Location: Chicago, IL
+LinkedIn: linkedin.com/in/caseybennett
+
+Summary:
+Data Analyst with 3.5 years of experience analyzing business metrics with Python and SQL. Looking to transition into backend software development.
+
+Skills:
+- Tools: Python, SQL, Pandas, NumPy, Tableau, Excel, Basic Git
+
+Experience:
+Data Analyst | MarketPulse | 2021-01 - Present
+- Wrote complex SQL queries on PostgreSQL data warehouse to generate executive financial reports.
+- Automated data extraction scripts using Python and Pandas, saving 10 hours of manual work weekly.
+- Built interactive Tableau dashboards for marketing campaigns.
+
+Business Intelligence Assistant | RetailMetrics | 2019-08 - 2020-12
+- Verified data accuracy in CRM and produced monthly KPI summaries.
+
+Education:
+B.A. in Economics | University of Illinois | 2019
